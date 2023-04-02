@@ -1,4 +1,3 @@
-
 create table book
 (
 id          serial primary key,
